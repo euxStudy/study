@@ -1,8 +1,10 @@
 # 本周任务
 1. 编码规范了解
 我们来简单接触一些团队的编码规范，这不但能够规范我们的代码，而且可以让代码更加美观
+
     - 腾讯Alloyteam (http://alloyteam.github.io/CodeGuide/)
     - 百度EFE (https://github.com/ecomfe/spec)
+    
 我们可以在以后的学习中尝试使用这些团队的编码规范去要求自己，向更加专业化的道路迈进
 
 2. js基础（一）
