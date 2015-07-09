@@ -29,6 +29,7 @@
 - [Javascript中this关键字详解](http://www.cnblogs.com/justany/archive/2012/11/01/the_keyword_this_in_javascript.html)
 - [IIFE - 苏青 - ITeye技术网站](http://suqing.iteye.com/blog/1981591/)
 - 《JavaScript高级程序设计》(eux群共享)事件、DOM、BOM部分
+- [正则表达式30分钟入门教程](http://www.jb51.net/tools/zhengze.html)
 
 # 本周作业
 1. 写一份有关闭包和this的总结笔记
@@ -50,3 +51,4 @@
     $(".classa"); // 返回第一个样式定义包含classa的对象
     ```
 4. 知道如何使用userAgent进行浏览器的判定，自行学习了解其他BOM相关知识
+5. 能够利用正则表达式进行表单验证
