@@ -60,7 +60,7 @@
 
     Write a form checked by regular expression.
 
-# Advance request
+# Advanced request
 You can decide whether to do any of these exercises or not.
 
 1. Write a full-screen-scroll plugin. Every time you scroll up/down with your mouse the window will move the distance which is its height.
