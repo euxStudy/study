@@ -55,7 +55,7 @@
     - Pay attention to the request "return the first element".
 4. 知道如何使用userAgent进行浏览器的判定，自行学习了解其他BOM相关知识
    
-    Write a funciton able to distinguish all kinds of browser in PC.
+    Write a funciton able to distinguish all kinds of browsers in PC.
 5. 利用正则表达式进行表单验证
 
     Write a form checked by regular expression.
@@ -70,4 +70,5 @@ You can decide wether to do any of these exercises or not.
     Remove the blank at the beginning or the end of an expression.
   - animate(element, attr, value)
   
-    We all know "animate" method in jquery is very strong, however, when it comes to attributes in CSS3, it doesn't work either. Let's create a function with "setTimeout" to manage animation in CSS3 attributes. Here we shall try only 1-2 attributes such as "rotate"/"scale". It is not complex at all, just try it.
+    We all know "animate" method in jquery is very strong. However, when it comes to some attributes in CSS3, it doesn't work either. Let's create a function with "setTimeout" to manage animation in CSS3 attributes. Here we shall try only 1-2 attributes such as "rotate"/"scale". It is not complex at all, just try it.
+3. Learn by yourself about Object in javascript and write a conclusion.
