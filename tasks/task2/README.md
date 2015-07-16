@@ -71,4 +71,4 @@ You can decide whether to do any of these exercises or not.
   - animate(element, attr, value)
   
     We all know "animate" method in jquery is very strong. However, when it comes to some attributes in CSS3, it doesn't work either. Let's create a function with "setTimeout" to manage animation in CSS3 attributes. Here we shall try only 1-2 attributes such as "rotate"/"scale". It is not complex at all, just try it.
-3. Learn by yourself about Object in javascript and write a conclusion.
+3. Learn by yourself about Object in javascript and write a conclusion not shorter than 80 lines.
