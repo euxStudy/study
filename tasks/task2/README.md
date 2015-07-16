@@ -61,7 +61,7 @@
     Write a form checked by regular expression.
 
 # Advance request
-You can decide wether to do any of these exercises or not.
+You can decide whether to do any of these exercises or not.
 
 1. Write a full-screen-scroll plugin. Every time you scroll up/down with your mouse the window will move the distance which is its height.
 2. Complete the following functions with regular expression or other native javascriipt methods:
