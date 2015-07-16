@@ -51,8 +51,8 @@
     // 可以通过样式名称获取DOM对象，例如
     $(".classa"); // 返回第一个样式定义包含classa的对象
     ```
-    (1)Use only "getElementById"/"getElementsByTagName", methods like "getElementsByClassName"/"querySelectorAll" are not allowed.
-    (2)Pay attention to the request "return the first element".
+    (1) Use only "getElementById"/"getElementsByTagName", methods like "getElementsByClassName"/"querySelectorAll" are not allowed.
+    (2) Pay attention to the request "return the first element".
 4. 知道如何使用userAgent进行浏览器的判定，自行学习了解其他BOM相关知识
    Write a funciton able to distinguish all kinds of browser in PC.
 5. 利用正则表达式进行表单验证
@@ -63,7 +63,7 @@ You can decide wether to do any of these exercises or not.
 
 1. Write a full-screen-scroll plugin. Every time you scroll up/down with your mouse the window will move the distance which is its height.
 2. Complete the following functions with regular expression or other native javascriipt methods:
-  (1)trim()
+  (1) trim()
     Remove the blank at the beginning or the end of an expression.
-  (2)animate(element, attr, value)
+  (2) animate(element, attr, value)
     We all know "animate" method in jquery is very strong, however, when it comes to attributes in CSS3, it doesn't work either. Let's create a function with "setTimeout" to manage animation in CSS3 attributes. Here we shall try only 1-2 attributes such as "rotate"/"scale". It is not complex at all, just try it.
