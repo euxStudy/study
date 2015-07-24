@@ -55,7 +55,7 @@
     - Pay attention to the request "return the first element".
 4. 知道如何使用userAgent进行浏览器的判定，自行学习了解其他BOM相关知识
    
-    Write a funciton able to distinguish all kinds of browsers in PC.
+    Write a function able to distinguish all kinds of browsers in PC.
 5. 利用正则表达式进行表单验证
 
     Write a form checked by regular expression.
@@ -64,7 +64,7 @@
 You can decide whether to do any of these exercises or not.
 
 1. Write a full-screen-scroll plugin. Every time you scroll up/down with your mouse the window will move the distance which is its height.
-2. Complete the following functions with regular expression or other native javascriipt methods:
+2. Complete the following functions with regular expression or other native javascript methods:
   - trim()
   
     Remove the blank at the beginning or the end of an expression.
